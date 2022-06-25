@@ -21,7 +21,7 @@ Replace {0} with your class name
 
 For the class portion:
 
-* Create a new folder within root directory like '{0}'
+* CD into src directory
 * Create an empty __init__.py script in the folder
 * Create '{0}.py'
 
